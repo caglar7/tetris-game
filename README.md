@@ -1,2 +1,3 @@
-# tetris-game
- tetris replica using python turtle module
+# tetris-game replica with turtle module
+
+
